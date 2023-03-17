@@ -1,4 +1,4 @@
-# Pick Game
+# Testimonial Grid
 
 ## Table of contents
 
