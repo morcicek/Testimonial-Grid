@@ -22,7 +22,7 @@ This is project's simple view...
 
 ### Links
 
-- Live Site URL: [Live site](https://morcicek.github.io/Grid-Project/)
+- Live Site URL: [Live site](https://morcicek.github.io/Testimonial-Grid/)
 
 ## My process
 
